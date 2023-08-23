@@ -1,0 +1,239 @@
+<resources>
+    <string name="app_name">Petmily</string>
+
+
+    <!-- Login -->
+    <string name="login_hint_id">이메일</string>
+    <string name="login_hint_pwd">비밀번호</string>
+    <string name="login_btn_confirm">로그인</string>
+    <string name="login_tv_pwd_find">비밀번호 재설정</string>
+    <string name="login_tv_signup">회원가입</string>
+    <string name="login_tv_separator">OR</string>
+    <string name="login_error_id">이메일을 입력하세요</string>
+    <string name="login_error_pwd">비밀번호를 입력하세요</string>
+
+    <!-- UserInfoInput -->
+    <string name="userinfoinput_initial_title">기본정보 설정</string>
+    <string name="userinfoinput_tv_edit_title">기본정보 수정</string>
+    <string name="userinfoinput_tv_edit_profile_img">수정</string>
+    <string name="userinfoinput_tv_nickname_title">닉네임</string>
+    <string name="userinfoinput_tv_nickname_explan">사용할 닉네임을 입력해주세요.</string>
+    <string name="userinfoinput_hint_nickname">닉네임</string>
+    <string name="userinfoinput_btn_double_check">중복 확인</string>
+    <string name="userinfoinput_tv_region_title">지역</string>
+    <string name="userinfoinput_tv_region_explan">거주 중인 지역을 선택해주세요.</string>
+    <string name="userinfoinput_tv_favor_animal_title">선호하는 반려동물</string>
+    <string name="userinfoinput_tv_favor_animal_explan">함께하고 싶은 반려동물이 있나요?</string>
+    <string name="userinfoinput_tv_input_pet_title">키우고있는 반려동물이 있나요?</string>
+    <string name="userinfoinput_btn_pet_input">반려동물 정보 입력하기</string>
+    <string name="userinfoinput_btn_confirm">완료</string>
+    <string name="userinfoinput_hint_select">선택해주세요</string>
+    <string name="userinfoinput_error_nickname">닉네임을 입력해주세요</string>
+
+
+    <!-- Join -->
+    <string name="join_tv_title">회원가입</string>
+    <string name="join_tv_email_title">이메일</string>
+    <string name="join_hint_email">이메일</string>
+    <string name="join_hint_select_email">선택해주세요</string>
+    <string name="join_btn_email_certificate">이메일 인증하기</string>
+    <string name="join_hint_code">인증코드</string>
+    <string name="join_btn_code_confirm">확인</string>
+    <string name="join_tv_password_title">비밀번호</string>
+    <string name="join_tv_password_explan">영문, 숫자를 포함한 8자 이상의 비밀번호를 입력해주세요.</string>
+    <string name="join_hint_password">비밀번호</string>
+    <string name="join_tv_password_confirm_title">비밀번호 확인</string>
+    <string name="join_hint_password_confirm">비밀번호 확인</string>
+    <string name="join_tv_terms_title">약관동의</string>
+    <string name="join_tv_terms_all">전체동의</string>
+    <string name="join_tv_terms_all_sub">선택항목에 대한 동의 포함</string>
+    <string name="join_tv_terms_age">만 14세 이상입니다</string>
+    <string name="join_tv_terms_use">이용약관</string>
+    <string name="join_tv_terms_privacy">개인정보 수집 및 이용 동의</string>
+    <string name="join_tv_terms_marketing">개인정보 마케팅 활용</string>
+    <string name="join_tv_terms_required">(필수)</string>
+    <string name="join_tv_terms_optional">(선택)</string>
+    <string name="join_btn_confirm">가입하기</string>
+
+
+    <!-- Password -->
+    <string name="password_tv_title">비밀번호 재설정</string>
+    <string name="password_tv_explan">가입한 이메일 주소를 입력해주세요.</string>
+    <string name="password_hint_email">이메일</string>
+    <string name="password_btn_email">확인</string>
+    <string name="password_hint_code">인증코드</string>
+    <string name="password_btn_code">인증</string>
+    <string name="password_btn_password_reset">비밀번호 재설정</string>
+
+
+    <!-- pet Info Input -->
+    <string name="petInfo_Input_tv_title">반려동물 정보 설정</string>
+    <string name="petInfo_Input_tv_profile_img_modify">수정</string>
+    <string name="petInfo_Input_tv_explain">함께하고 있는 반려동물을 소개해주세요</string>
+    <string name="petInfo_Input_hint_name">이름</string>
+    <string name="petInfo_Input_hint_gender">성별</string>
+    <string name="petInfo_Input_hint_species">동물 종</string>
+    <string name="petInfo_Input_hint_year">OO년</string>
+    <string name="petInfo_Input_hint_month">OO월</string>
+    <string name="petInfo_Input_hint_day">OO일</string>
+    <string name="petInfo_Input_btn_male">남</string>
+    <string name="petInfo_Input_btn_female">여</string>
+    <string name="petInfo_Input_cb_unknown">모름</string>
+    <string name="petInfo_Input_hint_introduction">소개 글</string>
+    <string name="petInfo_Input_btn_complete">완료</string>
+    <string name="petInfo_Input_error_word">필수</string>
+
+
+    <!-- Home -->
+    <string name="home_tools_tv_content">한 어머님, 새겨지는 아무 아름다운 계십니다. 잔디가 우는 내 봅니다. 남은 이름과, 이웃 별에도 아이들의 까닭입니다. 가슴속에 청춘이 둘 파란 봅니다. 무성할 딴은 시와 까닭입니다. 토끼, 이름자를 봄이 이웃 무덤 봅니다. 한 하나에 하늘에는 위에 별 북간도에 별이 까닭이요, 가득 거외다. 가득 별들을 우는 것은 위에 별에도 버리었습니다. 위에도 같이 청춘이 이름자를 봅니다.</string>
+
+
+    <!-- curation Main -->
+    <string name="curation_main_tv_dog">강아지</string>
+    <string name="curation_main_tv_cat">고양이</string>
+    <string name="curation_main_tv_etc">기타</string>
+    <string name="curation_main_btn_more">더보기</string>
+
+
+    <!-- curation detail -->
+    <string name="curation_detail_tv_health">건강</string>
+    <string name="curation_detail_tv_beauty">미용</string>
+    <string name="curation_detail_tv_feed">식품</string>
+    <string name="curation_detail_tv_adopt">입양</string>
+
+
+    <!-- gallery -->
+    <string name="gallery_btn_complete">완료</string>
+
+
+    <!-- Mypage -->
+    <string name="mypage_tv_top_title">프로필</string>
+    <string name="mypage_tv_feed">게시글</string>
+    <string name="mypage_tv_follow">팔로우</string>
+    <string name="mypage_tv_unfollow">언팔로우</string>
+    <string name="mypage_tv_message">메시지</string>
+    <string name="mypage_tv_following">팔로잉</string>
+    <string name="mypage_tv_follower">팔로워</string>
+    <string name="mypage_tv_curation">큐레이션</string>
+
+
+    <!-- Comment -->
+    <string name="comment_tv_open_reply">답글 더보기</string>
+    <string name="comment_tv_close_reply">답글 숨기기</string>
+    <string name="comment_hint_comment_write">댓글 작성</string>
+    <string name="comment_hint_comment_upload">작성</string>
+    <string name="comment_tv_reply_writing">님의 댓글에 답글을 남기는 중..</string>
+    <string name="comment_tv_reply_writing_close">X</string>
+
+
+    <!-- Search -->
+    <string name="search_hint_input">검색하고자 하는 해시태그를 입력해주세요.</string>
+    <string name="search_btn_category_user">사용자</string>
+    <string name="search_btn_category_board">피드</string>
+    <string name="search_btn_category_curation">큐레이션</string>
+
+
+    <!-- Chat -->
+    <string name="chat_tv_title">채팅방</string>
+    <string name="chat_hint_send">전송</string>
+
+
+    <!-- Notification -->
+    <string name="noti_tv_title">알림창</string>
+
+
+    <!-- Mypage drawer -->
+    <string name="drawer_tv_profile_edit">프로필 편집</string>
+    <string name="drawer_tv_password_edit">비밀번호 변경</string>
+    <string name="drawer_tv_setting_notification">알림 설정</string>
+    <string name="drawer_tv_setting_app_info">정보</string>
+    <string name="drawer_tv_setting_Withdrawal">회원 탈퇴</string>
+    <string name="drawer_tv_point">포인트 적립/사용 내역</string>
+    <string name="drawer_tv_logout">로그아웃</string>
+
+
+    <!-- petInfo -->
+    <string name="petInfo_tv_birthday">생일</string>
+    <string name="petInfo_tv_intro">소개</string>
+    <string name="petInfo_btn_complete">완료</string>
+    <string name="petInfo_btn_modify">수정</string>
+    <string name="petInfo_btn_delete">삭제</string>
+
+
+    <!-- board Write -->
+    <string name="board_write_hint_write">펫밀리를 시작하세요..</string>
+    <string name="board_write_btn_write">등록</string>
+    <string name="board_write_hint_tag">태그</string>
+    <string name="board_tv_temp_nickname">닉네임</string>
+
+    <!-- logout dialog -->
+    <string name="logout_dialog_tv_header">정말 로그아웃 하시겠어요?</string>
+    <string name="logout_dialog_btn_ok">로그아웃</string>
+    <string name="logout_dialog_btn_cancle">취소</string>
+
+    <!-- withDrawal dialog -->
+    <string name="withdrawal_dialog_tv_header">정말 탈퇴 하시겠어요?</string>
+    <string name="withdrawal_dialog_tv_body">탈퇴버튼 선택시, 계정은 \n 삭제되며 복구되지 않습니다</string>
+    <string name="withdrawal_dialog_hint_password">비밀번호</string>
+    <string name="withdrawal_dialog_btn_auth">인증</string>
+    <string name="withdrawal_dialog_btn_ok">탈퇴</string>
+    <string name="withdrawal_dialog_btn_cancle">취소</string>
+
+
+    <!-- option dialog -->
+    <string name="boardoption_dialog_title">게시글</string>
+    <string name="boardoption_dialog_update">게시글 수정</string>
+    <string name="boardoption_dialog_delete">게시글 삭제</string>
+    <string name="commentoption_dialog_title">댓글</string>
+    <string name="commentoption_dialog_tag">댓글 태그</string>
+    <string name="commentoption_dialog_delete">댓글 삭제</string>
+
+    <!-- shop -->
+    <string name="shop_tab_store">상점</string>
+    <string name="shop_tab_inven">보관함</string>
+    <string name="shop_item_ring_price">+20</string>
+    <string name="shop_item_badge_price">+20</string>
+    <string name="shop_item_cover_price">+30</string>
+    <string name="shop_item_all_price">+10</string>
+    <string name="shop_item_ring">프로필 링 랜덤 뽑기</string>
+    <string name="shop_item_badge">뱃지 랜덤 뽑기</string>
+    <string name="shop_item_cover">커버 이미지 랜덤 뽑기</string>
+    <string name="shop_item_all">ALL 랜덤 박스</string>
+
+    <!-- Inventory -->
+    <string name="inventory_item_all">전체</string>
+    <string name="inventory_item_ring">링</string>
+    <string name="inventory_item_badge">뱃지</string>
+    <string name="inventory_item_cover">커버</string>
+
+
+    <!-- Custom drwing dialog -->
+    <string name="drawing_shoot">뽑 기</string>
+    <string name="drawing_boom">나가!</string>
+
+    <!-- Custom item select dialog -->
+    <string name="item_select_message">아이템을 장착 하시겠어요?</string>
+    <string name="item_select_ok">장착</string>
+    <string name="item_select_cancle">취소</string>
+
+    <!-- Attendance dialog -->
+    <string name="attendance_message">출석 하셨습니다!</string>
+    <string name="attendance_ok">확인</string>
+
+    <!-- WalkFragment -->
+    <string name="walk_title">산책</string>
+    <string name="walk_separator">/</string>
+    <string name="walk_info">반려동물과 펫밀리가 함께 산책해요!
+
+\n\n함께 산책할 반려동물을 선택하고 산책 시작 버튼을 눌러주세요.
+
+\n\n휴대폰 기기 알림 창에 산책 거리와 시간을 안내해드립니다.
+
+\n\n앱이 꺼져도 산책을 지속할 수 있게
+\n위치 권한을 항상 허용으로 설정해주세요.
+
+\n\n실내에서는 위치가 인식되지 않습니다.
+
+\n\n산책을 열심히 하시면 포인트가 지급되며
+\n여러분과 반려동물의 산책을 기록해드립니다.</string>
+</resources>

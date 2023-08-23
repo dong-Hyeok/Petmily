@@ -1,0 +1,115 @@
+plugins {
+    id 'com.android.application'
+    id 'org.jetbrains.kotlin.android'
+    id 'org.jetbrains.kotlin.kapt'
+    id 'com.google.gms.google-services'
+}
+
+android {
+    namespace 'com.petmily'
+    compileSdk 32
+
+    defaultConfig {
+        applicationId "com.petmily"
+        minSdk 21
+        targetSdk 32
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+
+    viewBinding {
+        enabled = true
+    }
+
+
+}
+
+dependencies {
+
+    implementation 'androidx.core:core-ktx:1.7.0'
+    implementation 'androidx.appcompat:appcompat:1.4.2'
+    implementation 'com.google.android.material:material:1.6.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+
+
+    // https://github.com/square/retrofit
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+
+    // https://github.com/square/retrofit/tree/master/retrofit-converters/gson
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+
+    // https://github.com/square/okhttp
+    implementation("com.squareup.okhttp3:okhttp:4.9.0")
+
+    // https://github.com/square/okhttp/tree/master/okhttp-logging-interceptor
+    implementation("com.squareup.okhttp3:logging-interceptor:4.9.0")
+
+    // https://github.com/ybq/Android-SpinKit
+    // implementation 'com.github.ybq:Android-SpinKit:1.4.0'
+    // implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+
+    // ViewModel
+    implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1"
+    //framework ktx dependency 추가
+    implementation "androidx.fragment:fragment-ktx:1.4.1"
+
+    // ViewPager
+    implementation 'androidx.viewpager2:viewpager2:1.0.0'
+    // CircleIndicator
+    implementation 'me.relex:circleindicator:2.1.6'
+
+    //TedPermission
+    implementation 'io.github.ParkSangGwon:tedpermission-normal:3.3.0'
+
+    // Glide
+    implementation "com.github.bumptech.glide:glide:4.13.2"
+
+    // webView
+    implementation 'androidx.webkit:webkit:1.4.0'
+
+    // retrofit 결과로 String이 올때 에러 처리
+    implementation 'com.squareup.retrofit2:converter-scalars:2.5.0'
+
+    // FCM 사용 위한 plugins
+    // implementation(platform("com.google.firebase:firebase-bom:32.2.2"))
+    implementation platform('com.google.firebase:firebase-bom:30.1.0')
+    implementation 'com.google.firebase:firebase-analytics'
+    implementation 'com.google.firebase:firebase-messaging-ktx'
+
+    // Lottie 애니메이션
+    implementation 'com.airbnb.android:lottie:3.7.0'
+
+    // WebSocket test https://mvnrepository.com/artifact/com.squareup.okhttp3/mockwebserver/4.10.0
+    testImplementation group: 'com.squareup.okhttp3', name: 'mockwebserver', version: '4.10.0'
+
+    implementation 'androidx.core:core-splashscreen:1.0.0-alpha01'
+
+    // WorkManager
+    implementation "androidx.work:work-runtime-ktx:2.7.0"
+
+    // stomp
+    implementation 'com.github.NaikSoftware:StompProtocolAndroid:1.6.6'
+
+    // Stomp - rx
+    implementation 'io.reactivex.rxjava2:rxjava:2.2.5'
+    implementation 'io.reactivex.rxjava2:rxandroid:2.1.0'
+}

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:elevation="12dp"
+    android:layout_marginBottom="12dp"
+    android:paddingBottom="12dp"
+    >
+
+    <ImageView
+        android:id="@+id/iv_curation_item_image"
+        android:layout_width="match_parent"
+        android:layout_height="145dp"
+        android:adjustViewBounds="true"
+        android:scaleType="center"
+        />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:background="@color/white">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="10dp"
+            android:layout_height="40dp"
+            android:src="@drawable/curation_title_line"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.05"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.4" />
+
+        <TextView
+            android:id="@+id/tv_curation_item_title"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            tools:text="강아지 유산균 급여 시 장점과 구매 전 체크리스트..."
+            android:fontFamily="@font/pretendard_bold"
+            app:layout_constraintVertical_bias="0.5"
+            android:layout_marginStart="16dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imageView"
+            app:layout_constraintTop_toTopOf="parent"
+            />
+
+        <ToggleButton
+            android:id="@+id/btn_bookmark"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_marginEnd="18dp"
+            android:background="@drawable/feed_btn_bookmark"
+            android:text=""
+            android:textOff=""
+            android:textOn=""
+            app:layout_constraintVertical_bias="0.8"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</LinearLayout>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Text -->
+    <style name="BlackLightText">
+        <item name="android:fontFamily">@font/pretendard_light</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="WhiteLightText">
+        <item name="android:fontFamily">@font/pretendard_light</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="BlackMediumText">
+        <item name="android:fontFamily">@font/pretendard_medium</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="WhiteMediumText">
+        <item name="android:fontFamily">@font/pretendard_bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="BlackSmallBoldText">
+        <item name="android:fontFamily">@font/pretendard_bold</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="BlackBoldText">
+        <item name="android:fontFamily">@font/pretendard_bold</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="WhiteBoldText">
+        <item name="android:fontFamily">@font/pretendard_bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="MainColorBoldText">
+        <item name="android:fontFamily">@font/pretendard_bold</item>
+        <item name="android:textColor">@color/main_color</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="BlackExtraBoldText">
+        <item name="android:fontFamily">@font/pretendard_extrabold</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+    <style name="MainColorExtraBoldText">
+        <item name="android:fontFamily">@font/pretendard_extrabold</item>
+        <item name="android:textColor">@color/main_color</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+    <style name="RedColorExtraBoldText">
+        <item name="android:fontFamily">@font/pretendard_extrabold</item>
+        <item name="android:textColor">@color/red</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+    <style name="WhiteColorDoubleExtraBoldText">
+        <item name="android:fontFamily">@font/pretendard_extrabold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">32sp</item>
+    </style>
+    <style name="GreyLightText">
+        <item name="android:fontFamily">@font/pretendard_light</item>
+        <item name="android:textColor">@color/grey</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="GreyBoldText">
+        <item name="android:fontFamily">@font/pretendard_bold</item>
+        <item name="android:textColor">@color/grey</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="BlueBoldText">
+        <item name="android:fontFamily">@font/pretendard_bold</item>
+        <item name="android:textColor">@color/main_color</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+
+
+    <!-- Button -->
+    <style name="DefaultBtn" parent="Widget.AppCompat.Button">
+        <item name="android:fontFamily">@font/pretendard_medium</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="backgroundTint">@color/main_color</item>
+    </style>
+
+    <style name="GenderBtn_UnSelect" parent="Widget.AppCompat.Button">
+        <item name="android:fontFamily">@font/pretendard_medium</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="backgroundTint">@color/white</item>
+        <item name="android:layout_width">50dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_marginTop">4dp</item>
+    </style>
+
+    <style name="GenderBtn_Select" parent="Widget.AppCompat.Button">
+        <item name="android:fontFamily">@font/pretendard_medium</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="backgroundTint">@color/main_color</item>
+        <item name="android:layout_width">50dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_marginTop">4dp</item>
+    </style>
+
+    <style name="Curation_more_btn" parent="Widget.AppCompat.Button">
+        <item name="android:fontFamily">@font/pretendard_bold</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:gravity">center</item>
+        <item name="fontFamily">@font/pretendard_bold</item>
+    </style>
+
+
+    <!-- TextInputLayout -->
+    <style name="DefaultTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxBackgroundColor">@color/white</item>
+        <item name="boxStrokeColor">@color/main_color</item>
+        <item name="hintTextColor">@color/main_color</item>
+        <item name="android:textColorHint">@color/grey</item>
+        <item name="errorIconDrawable">@null</item>
+    </style>
+    <style name="PasswordTextInputLayout" parent="DefaultTextInputLayout">
+        <item name="passwordToggleEnabled">true</item>
+    </style>
+    <style name="DropDownTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu">
+        <item name="boxBackgroundColor">@color/white</item>
+        <item name="boxStrokeColor">@color/main_color</item>
+        <item name="hintTextColor">@color/main_color</item>
+        <item name="android:textColorHint">@color/grey</item>
+        <item name="errorIconDrawable">@null</item>
+    </style>
+
+
+    <!-- layout -->
+    <style name="RadiusLayout">
+        <item name="strokeColor">@color/main_color</item>
+        <item name="android:radius">20dp</item>
+    </style>
+
+
+    <!-- BottomSheetDialog -->
+    <style name="AppBottomSheetDialogTheme" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/AppModalStyle</item>
+    </style>
+    <style name="AppModalStyle"
+        parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@drawable/custom_top_border_radius</item>
+    </style>
+
+
+    <!-- chip -->
+    <style name="CustomChip" parent="Widget.MaterialComponents.Chip.Action">
+        <item name="chipCornerRadius">14dp</item>
+    </style>
+
+
+    <!-- tabLayout -->
+    <style name="CustomTabLayoutStyle" parent="Widget.Design.TabLayout">
+        <item name="tabTextAppearance">@style/CustomTabTextAppearance</item>
+    </style>
+
+    <style name="CustomTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">18sp</item> <!-- 원하는 크기로 변경 -->
+        <item name="android:fontFamily">@font/pretendard_bold</item>
+    </style>
+
+</resources>
