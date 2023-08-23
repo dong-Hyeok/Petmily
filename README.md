@@ -1,6 +1,6 @@
 # **펫밀리(PETMILY) :: 반려동물과 함께하는 SNS & CURATION SERVICE**
 
-![PETMILY BANNER](https://github.com/ryejjin/PETMILY/assets/129479166/7a5bda53-4da6-4cb0-8c17-fda7fb5bd9ff)
+![main_logo](https://github.com/dong-Hyeok/Petmily/assets/66107343/d3eaa789-0b29-4ef8-8683-7fa8726c1114)
 
 ## 📢 **프로젝트 진행 기간**
 <hr/>
@@ -363,7 +363,7 @@
 ---
  
 
-|![🐻_❄️(240 x 240)](https://github.com/ryejjin/PETMILY/assets/129479166/dc063833-8f76-4464-9bb6-c914d155c0f9)|![🐱(120 x 120)](https://github.com/ryejjin/PETMILY/assets/129479166/7d473e92-b8e4-4c42-ba60-4d9d61e89aef)|![🦓(120 x 120)](https://github.com/ryejjin/PETMILY/assets/129479166/db0d0582-2ad7-41de-914a-dd089e238776)|![🦊(120 x 120)](https://github.com/ryejjin/PETMILY/assets/129479166/18ad55fa-fcff-4524-b7fe-fe461c8cb8a8)|![🐰(120 x 120)](https://github.com/ryejjin/PETMILY/assets/129479166/4d1b9b37-5042-446b-a3f0-c08780cb4388)|![🐹(120 x 120)](https://github.com/ryejjin/PETMILY/assets/129479166/9f00c11d-1b49-445f-b896-d735c8ec66cb)|
+|![bear](https://github.com/dong-Hyeok/Petmily/assets/66107343/f4f464d6-5feb-472a-9bf7-97a250fa6042)|![cat](https://github.com/dong-Hyeok/Petmily/assets/66107343/1a6b2058-2e15-4e52-9c30-59c0eb888c1d)|![mingune](https://github.com/dong-Hyeok/Petmily/assets/66107343/4fd3d3df-6120-4a3c-a404-d1ef38dc144a)|![youg](https://github.com/dong-Hyeok/Petmily/assets/66107343/39396375-31f6-40c4-ba68-a7d2525b6314)|![heajin](https://github.com/dong-Hyeok/Petmily/assets/66107343/cdea53c8-87e5-4ab5-8a36-8617ce11c224)|![dong](https://github.com/dong-Hyeok/Petmily/assets/66107343/51e92eed-1d76-41f7-83e8-e916be8bfd79)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |여민수|강해빈|손민균|정용우|조혜진|하동혁|
 |팀장, FE|팀원, FE|팀원, BE|팀원, MOBILE|팀원, BE|팀원, MOBILE|
