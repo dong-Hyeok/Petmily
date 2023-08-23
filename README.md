@@ -363,7 +363,7 @@
 ---
  
 
-|![🐻_❄️](https://github.com/ryejjin/PETMILY/assets/129479166/dc063833-8f76-4464-9bb6-c914d155c0f9)|![🐱](https://github.com/ryejjin/PETMILY/assets/129479166/7d473e92-b8e4-4c42-ba60-4d9d61e89aef)|![🦓](https://github.com/ryejjin/PETMILY/assets/129479166/db0d0582-2ad7-41de-914a-dd089e238776)|![🦊)](https://github.com/ryejjin/PETMILY/assets/129479166/18ad55fa-fcff-4524-b7fe-fe461c8cb8a8)|![🐰](https://github.com/ryejjin/PETMILY/assets/129479166/4d1b9b37-5042-446b-a3f0-c08780cb4388)|![🐹](https://github.com/ryejjin/PETMILY/assets/129479166/9f00c11d-1b49-445f-b896-d735c8ec66cb)|
+|![🐻_❄️(240 x 240)](https://github.com/ryejjin/PETMILY/assets/129479166/dc063833-8f76-4464-9bb6-c914d155c0f9)|![🐱(120 x 120)](https://github.com/ryejjin/PETMILY/assets/129479166/7d473e92-b8e4-4c42-ba60-4d9d61e89aef)|![🦓(120 x 120)](https://github.com/ryejjin/PETMILY/assets/129479166/db0d0582-2ad7-41de-914a-dd089e238776)|![🦊(120 x 120)](https://github.com/ryejjin/PETMILY/assets/129479166/18ad55fa-fcff-4524-b7fe-fe461c8cb8a8)|![🐰(120 x 120)](https://github.com/ryejjin/PETMILY/assets/129479166/4d1b9b37-5042-446b-a3f0-c08780cb4388)|![🐹(120 x 120)](https://github.com/ryejjin/PETMILY/assets/129479166/9f00c11d-1b49-445f-b896-d735c8ec66cb)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |여민수|강해빈|손민균|정용우|조혜진|하동혁|
 |팀장, FE|팀원, FE|팀원, BE|팀원, MOBILE|팀원, BE|팀원, MOBILE|
