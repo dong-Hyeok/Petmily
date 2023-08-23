@@ -1,6 +1,6 @@
-# 🐕 **펫밀리(PETMILY) :: 반려동물과 함께하는 SNS & CURATION SERVICE**
+# **펫밀리(PETMILY) :: 반려동물과 함께하는 SNS & CURATION SERVICE**
 
-![PETMILY BANNER](/uploads/1a484c70bb9dbb89a3adb2cc46023110/Group_633.png)
+![PETMILY BANNER](https://github.com/ryejjin/PETMILY/assets/129479166/7a5bda53-4da6-4cb0-8c17-fda7fb5bd9ff)
 
 ## 📢 **프로젝트 진행 기간**
 <hr/>
@@ -108,17 +108,7 @@
 
 **FrontEnd**
 
-<img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
-<img src="https://img.shields.io/badge/babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
-<img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
-<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
-<img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
-<img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />
+<img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" /> <img src="https://img.shields.io/badge/babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" /> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" /> <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" /> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" /> <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" /> <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />
 
 
     - Visual Studio Code IDE
@@ -373,7 +363,7 @@
 ---
  
 
-|![민수](/uploads/e01b78fc6b629d92e9c879edb845bd34/___️_240_x_240_.png)|![해빈](/uploads/c8c8cf5510a50a2c9987a337ad6ea612/__120_x_120_.png)|![민균](/uploads/c6518b007e9311a4ba47c7d4d3f90d8d/__120_x_120_.png)|![용우](/uploads/5466491689227d859465386eba9bf988/__120_x_120_.png)|![혜진](/uploads/b2c567b6e62bb56287edf5ec11b1b840/__120_x_120_.png)|![동혁](/uploads/633f0769aa068a0659976eeec160cdf0/__120_x_120_.png)|
+|![🐻_❄️(240 x 240)](https://github.com/ryejjin/PETMILY/assets/129479166/dc063833-8f76-4464-9bb6-c914d155c0f9)|![🐱(120 x 120)](https://github.com/ryejjin/PETMILY/assets/129479166/7d473e92-b8e4-4c42-ba60-4d9d61e89aef)|![🦓(120 x 120)](https://github.com/ryejjin/PETMILY/assets/129479166/db0d0582-2ad7-41de-914a-dd089e238776)|![🦊(120 x 120)](https://github.com/ryejjin/PETMILY/assets/129479166/18ad55fa-fcff-4524-b7fe-fe461c8cb8a8)|![🐰(120 x 120)](https://github.com/ryejjin/PETMILY/assets/129479166/4d1b9b37-5042-446b-a3f0-c08780cb4388)|![🐹(120 x 120)](https://github.com/ryejjin/PETMILY/assets/129479166/9f00c11d-1b49-445f-b896-d735c8ec66cb)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |여민수|강해빈|손민균|정용우|조혜진|하동혁|
 |팀장, FE|팀원, FE|팀원, BE|팀원, MOBILE|팀원, BE|팀원, MOBILE|
