@@ -363,7 +363,7 @@
 ---
  
 
-|![bear](https://github.com/dong-Hyeok/Petmily/assets/66107343/f4f464d6-5feb-472a-9bf7-97a250fa6042)|![cat](https://github.com/dong-Hyeok/Petmily/assets/66107343/1a6b2058-2e15-4e52-9c30-59c0eb888c1d)|![mingune](https://github.com/dong-Hyeok/Petmily/assets/66107343/4fd3d3df-6120-4a3c-a404-d1ef38dc144a)|![youg](https://github.com/dong-Hyeok/Petmily/assets/66107343/39396375-31f6-40c4-ba68-a7d2525b6314)|![heajin](https://github.com/dong-Hyeok/Petmily/assets/66107343/cdea53c8-87e5-4ab5-8a36-8617ce11c224)|![dong](https://github.com/dong-Hyeok/Petmily/assets/66107343/51e92eed-1d76-41f7-83e8-e916be8bfd79)|
+
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |여민수|강해빈|손민균|정용우|조혜진|하동혁|
 |팀장, FE|팀원, FE|팀원, BE|팀원, MOBILE|팀원, BE|팀원, MOBILE|
