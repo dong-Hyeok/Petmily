@@ -1,6 +1,6 @@
 # **펫밀리(PETMILY) :: 반려동물과 함께하는 SNS & CURATION SERVICE**
 
-![main_logo](https://github.com/dong-Hyeok/Petmily/assets/66107343/d3eaa789-0b29-4ef8-8683-7fa8726c1114)
+![Untitled](https://github.com/dong-Hyeok/Petmily/assets/66107343/e5248b4d-2e05-4d1a-bdc2-e4fff97d21d7)
 
 ## 📢 **프로젝트 진행 기간**
 <hr/>
