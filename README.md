@@ -356,14 +356,28 @@
 - [포팅 메뉴얼](https://daisy-root-a8a.notion.site/2-D209-531c6afd1b1f413a943530d85ad3a075?pvs=4)
 
 
+<br/>
+
+## 📢 **시연 영상**
+- Android
+[[Android] 펫밀리 시연영상](https://youtu.be/JHyWOOTx_EI)
+
+- Web
+[[WEB] 펫밀리 시연영상](https://youtu.be/v1SDtL875gg)
+
+
 
 <br/>
 
 ## 📢 **팀원**
 ---
  
+| 이름   | 역할        |
+|--------|-------------|
+| 여민수 | 팀장, FE    |
+| 강해빈 | 팀원, FE    |
+| 손민균 | 팀원, BE    |
+| 정용우 | 팀원, MOBILE |
+| 조혜진 | 팀원, BE    |
+| 하동혁 | 팀원, MOBILE |
 
-
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|여민수|강해빈|손민균|정용우|조혜진|하동혁|
-|팀장, FE|팀원, FE|팀원, BE|팀원, MOBILE|팀원, BE|팀원, MOBILE|
